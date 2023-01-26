@@ -65,5 +65,6 @@ Amigo 3: ${usuario.amigos[2]}
 Activo: ${usuario.active}
 función 1: ${usuario.enviarMail()}
 función 2: ${usuario.enviarMail2()}
+
 `
 console.log(salida3);
